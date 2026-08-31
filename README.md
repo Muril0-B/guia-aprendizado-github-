@@ -21,7 +21,7 @@ Estudantes que possuem dificuldade ou não tenham aprendido o conteúdo: sistema
     Exemplos acerca do conteúdo
 ## Como navegar: 
 - A respeito do conteúdo sobre o qual o guia é orientado, a navegação ideal é: Introdução -> Conceitos -> Exercícios -> Referências; 
-- Quanto aos demais pontos do projeto, a navegação não possui ordem definida.
+- Quanto aos demais pontos do projeto, é permitido navegar livremente sem qualquer prejuízo de compreensão.
 ## Autoria
 - **Autor:** Murilo Teles Bringel
 - **Contexto:** Material desenvolvido como parte da documentação do projeto "guia-aprendizadp-github"
